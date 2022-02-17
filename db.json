@@ -1,0 +1,59 @@
+{
+  "contacts": [
+    {
+      "id": 1641425649607,
+      "name": "Zack O. Bello",
+      "email": "obomheire@gmail.com"
+    },
+    {
+      "id": 1641425663261,
+      "name": "Fatai Owolabi",
+      "email": "owolabi@gmail.com"
+    },
+    {
+      "id": 1641425680485,
+      "name": "Maryam Mohammed",
+      "email": "maryam@gmail.com"
+    },
+    {
+      "id": 1641425707305,
+      "name": "Sulaimon Mohammed",
+      "email": "sulaimon@gmail.com"
+    },
+    {
+      "id": 1641425729346,
+      "name": "Justina Agbadu",
+      "email": "justina@yahoo.com"
+    },
+    {
+      "id": 1641425745955,
+      "name": "Mose Awase",
+      "email": "mose@yahoo.com"
+    },
+    {
+      "id": 1641425779257,
+      "name": "Nathaniel Ujah",
+      "email": "nathaniel@gmail.com"
+    },
+    {
+      "id": 1641425821613,
+      "name": "Mary Aduga",
+      "email": "mary@gmail.com"
+    },
+    {
+      "id": 1641469265227,
+      "name": "Bello Omolade",
+      "email": "owolabi@gmail.com"
+    },
+    {
+      "id": 1641476721440,
+      "name": "Sunday Omzuafor",
+      "email": "omzuafor@yahoo.com"
+    },
+    {
+      "id": 1641477245521,
+      "name": "Angela Yu",
+      "email": "angela@gmail.com"
+    }
+  ]
+}
